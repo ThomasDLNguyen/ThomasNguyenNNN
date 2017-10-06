@@ -1,0 +1,56 @@
+body {
+    background-image: url(images/Butt.jpg);
+    background-color: #42b0f4;
+    background-size: 100%;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    color: white
+}
+h1{ 
+    font-family: "Arial", sans-serif;
+}
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #7a491a;
+}
+#nav li {
+    float: right;
+}
+
+#nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#nav li a:hover {
+        background-color: #96b9f2;
+}
+@font-face {
+    font-family: Lemon/Milk;
+    src: url(fonts/lemon_milk.zip);
+}
+#name1{
+    font-size: 100px;
+    text-align: center;
+}
+#facebook{
+    text-align: center;
+}
+#instagram{
+    text-align: center;
+}
+#Thomas{
+    text-align: center;
+}
+
+
+
+
+
+
+
