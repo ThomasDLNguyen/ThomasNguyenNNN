@@ -7,7 +7,22 @@ body {
     color: white
 }
 h1{ 
-    font-family: "Arial", sans-serif;
+	font-family: "Arial", sans-serif;
+	font-size: 100px
+}
+h2{ font-family: "Arial", sans-serif;
+font-size: 60px
+}
+h3{ font-family: "Arial", sans-serif;
+text-align: center;
+}
+p { font-family: "Arial", sans-serif;
+text-align: center;
+}
+h4{ font-family: "Arial", sans-serif;
+font-size: 35px;
+}
+table{ font-family: "Arial", sans-serif;
 }
 #nav {
     list-style-type: none;
@@ -47,10 +62,21 @@ h1{
 #Thomas{
     text-align: center;
 }
-
-
-
-
-
-
-
+#THOMASSS{
+    text-align: center;
+}
+#Yuh{
+    text-align: center;
+}
+#gif{
+    text-align: center;
+}
+#YEET{ font-family: "Arial", sans-serif;
+font-size: 20px
+}
+#Hey{ font-family: "Arial", sans-serif;
+font-size: 20px;
+}
+#Dope{ font-family: "Arial", sans-serif;
+font-size: 30px;
+}
